@@ -1,0 +1,15 @@
+name: ItemsPlus
+version: '1.0.0'
+main: me.arian.itemsplus.ItemsPlus
+api-version: 1.14
+authors: [ Arian01 ]
+description: Adds new Items and Blocks
+commands:
+  itemsplus:
+    usage: /<command>
+    description: Lets you access a Menu with all Items not obtainable via creative Inventory
+    permission: items.plus.inv
+    aliases:
+      - i+
+      - itm+
+      - iplus
